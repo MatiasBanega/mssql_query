@@ -1,4 +1,3 @@
-# mssql_query
 
 =============================
 Connect MS SQL through Odoo
