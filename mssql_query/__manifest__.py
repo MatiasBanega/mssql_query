@@ -4,11 +4,13 @@
      'author': "Fasil",
      'version': '0.1',
      'sequence': -1,
-     'website': 'https://www.malludynamics.com',
+     'website': '',
      'summary': """
-             Designed by Fasil""",
+             The app for making easy queries in MS SQL""",
      'description': """
-             
+Explore your MS SQL database with query into an Odoo interface
+You can use SELECT, UPDATE, DELETE, CREATE, INSERT, ALTER and DROP statements.
+
          """,
      'depends': ['base'],
      'data': [
