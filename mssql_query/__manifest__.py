@@ -23,5 +23,6 @@ You can use SELECT, UPDATE, DELETE, CREATE, INSERT, ALTER and DROP statements.
     'installable': True,
     'application': True,
     'auto_install': False,
+     'images': ['static/description/banner.gif'],
 
 }
