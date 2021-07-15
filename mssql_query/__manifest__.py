@@ -5,6 +5,7 @@
      'version': '0.1',
      'sequence': -1,
      'website': '',
+    'license': 'LGPL-3',
      'summary': """
              The app for making easy queries in MS SQL""",
      'description': """
